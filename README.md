@@ -1,7 +1,7 @@
 
-# Techinical Guideline 50 (TG50)
+# Techinical Guideline 50 
 
-TG50 50 is a project focused on developing the first set of technical guidelines and tools specifically tailored to support climate resilience and adaptation in government buildings across Western Australia. Informed by in-depth research on international best practices and local case studies, the guidelines offer practical advice and application tools to help project teams design and deliver buildings that can withstand extreme climate hazards and remain resilient to the impacts of climate change throughout their operational life.
+TG50 is a project focused on developing the first set of technical guidelines and tools specifically tailored to support climate resilience and adaptation in government buildings across Western Australia. Informed by in-depth research on international best practices and local case studies, the guidelines offer practical advice and application tools to help project teams design and deliver buildings that can withstand extreme climate hazards and remain resilient to the impacts of climate change throughout their operational life.
 
 
 ## Guidelines and Tools
@@ -15,17 +15,23 @@ TG50 50 is a project focused on developing the first set of technical guidelines
 
 
 
-## Climate Adapation Map
+## Climate Adaptation Map
 [Interactive Map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=dd6fd96b38b544a48c70086bef8c838c)
 
 ![image](https://github.com/user-attachments/assets/3cb8a1c3-26d7-425f-b1e6-d23647ac78ad)
 
 ## Authors
 
-- [@Fred G](https://www.github.com/gbuilding)
-- [@Mushk B](https://www.github.com/gbuilding)
-- [@Rashid M](https://www.github.com/gbuilding)
-- [@Jack S](https://www.github.com/gbuilding)
+- [@Fred G]()
+- [@Mushk B]()
+- [@Rashid M]()
+- [@Jack S]()
+
+
+## Support
+
+Please email BCBuildingResearch@finance.wa.gov.au for support or if you have any feedback.
+
 
 ## Acknowledgements
 
@@ -34,9 +40,6 @@ TG50 50 is a project focused on developing the first set of technical guidelines
  - [Australia Building Codes Board](https://www.abcb.gov.au/)
 
 
-## Appendix
-
-Any additional information goes here
 
 ![Logo](https://www.csiro.au/-/media/OnA/Images/SOTC-2020/SoTC2020_fc2_v51.png)
 
