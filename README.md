@@ -25,9 +25,7 @@ TG50 is a project focused on developing the first set of technical guidelines an
 ## Climate Resilience Rating
 
 
-![image](https://github.com/user-attachments/assets/1e4151d2-483a-4a6e-ba35-d2c2a7983de9)
-
-
+![image](https://github.com/user-attachments/assets/8bcf353e-5fa0-4af4-a6d0-68e296a4eaf5)
 
 
 
