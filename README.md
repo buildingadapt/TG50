@@ -24,9 +24,9 @@ TG50 is a project focused on developing the first set of technical guidelines an
 
 - [@Fred G]()
 - [@Mushk B]()
-- [@Rashid M]()
 - [@Jack S]()
-
+- [@Rashid M]()
+  
 
 ## Support
 
