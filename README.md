@@ -20,6 +20,13 @@ TG50 is a project focused on developing the first set of technical guidelines an
 
 ![image](https://github.com/user-attachments/assets/3cb8a1c3-26d7-425f-b1e6-d23647ac78ad)
 
+
+
+## Climate Resilience Rating
+![image](https://github.com/user-attachments/assets/214923cd-f56a-4b52-bfd8-460edaa90835)
+
+
+
 ## Authors
 
 - [@Fred G]()
@@ -41,5 +48,4 @@ Please email BCBuildingResearch@finance.wa.gov.au for support or if you have any
 
 
 
-![Logo](https://www.csiro.au/-/media/OnA/Images/SOTC-2020/SoTC2020_fc2_v51.png)
 
