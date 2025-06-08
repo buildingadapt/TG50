@@ -8,7 +8,7 @@ TG50 is a project focused on developing the first set of technical guidelines an
 
  - [Draft for comments](https://buildingadapt.github.io/TG50/Draft%202%20TG050_040625.pdf) 
  - [Climate Resilience Assessment Tool](https://buildingadapt.github.io/TG50/screeningv1.xlsx)
- - [Climate Adaptation Scoring Tool]
+ - Climate Adaptation Scoring Tool
 
  
 
