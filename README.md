@@ -37,3 +37,5 @@ TG50 50 is the first building design guidelines dedicated for climate resilience
 
 Any additional information goes here
 
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
