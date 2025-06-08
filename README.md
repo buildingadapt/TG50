@@ -6,7 +6,7 @@ TG50 50 is the first building design guidelines dedicated for climate resilience
 
 ## Demo
 
- - [Draft for comments](https://buildingadapt.github.io/Draft%202%20TG050_040625.pdf) 
+ - [Draft for comments](https://buildingadapt.github.io/TG50/Draft%202%20TG050_040625.pdf) 
  - [Climate Resilience Assessment Tool](https://buildingadapt.github.io/TG50/screeningv1.xlsx)
  - [Climate Adaptation Scoring Tool](https://www.wa.gov.au/organisation/department-of-finance)
 
@@ -15,7 +15,8 @@ TG50 50 is the first building design guidelines dedicated for climate resilience
 
 
 
-## Screenshots
+## Climate Adapation Building Map for WA Government Buildings
+[Interactive Map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=dd6fd96b38b544a48c70086bef8c838c)
 
 ![image](https://github.com/user-attachments/assets/3cb8a1c3-26d7-425f-b1e6-d23647ac78ad)
 
@@ -37,5 +38,5 @@ TG50 50 is the first building design guidelines dedicated for climate resilience
 
 Any additional information goes here
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://www.csiro.au/-/media/OnA/Images/SOTC-2020/SoTC2020_fc2_v51.png)
 
