@@ -33,7 +33,7 @@ TG50 is a project focused on developing the first set of technical guidelines an
 
 ## Authors
 
-- [@Fred G](https://gbuilding.github.io/contact)
+- [@Fred G](https://gbuilding.github.io/fred)
 - [@Mushk B]()
 - [@Jack S]()
 - [@Rashid M]()
