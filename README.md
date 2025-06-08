@@ -1,10 +1,10 @@
 
 # Techinical Guideline 50 (TG50)
 
-TG50 50 is the first building design guidelines dedicated for climate resilience and adaptative design for government buildings in Western Australia. Developed by a research team at DoF, the guideline provides guidance and tools for project teams to plan and deliver government buildings that are resilient to climate change impact and are capable of withsatanding extreme climate hazards within building's design life.
+TG50 50 is a project focused on developing the first set of technical guidelines and tools specifically tailored to support climate resilience and adaptation in government buildings across Western Australia. Informed by in-depth research on international best practices and local case studies, the guidelines offer practical advice and application tools to help project teams design and deliver buildings that can withstand extreme climate hazards and remain resilient to the impacts of climate change throughout their operational life.
 
 
-## Demo
+## Guidelines and Tools
 
  - [Draft for comments](https://buildingadapt.github.io/TG50/Draft%202%20TG050_040625.pdf) 
  - [Climate Resilience Assessment Tool](https://buildingadapt.github.io/TG50/screeningv1.xlsx)
@@ -15,7 +15,7 @@ TG50 50 is the first building design guidelines dedicated for climate resilience
 
 
 
-## Climate Adapation Building Map for WA Government Buildings
+## Climate Adapation Map
 [Interactive Map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=dd6fd96b38b544a48c70086bef8c838c)
 
 ![image](https://github.com/user-attachments/assets/3cb8a1c3-26d7-425f-b1e6-d23647ac78ad)
