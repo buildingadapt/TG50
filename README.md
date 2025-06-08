@@ -1,5 +1,5 @@
 
-# Techinical Guideline 50 
+# Technical Guideline 50 
 
 TG50 is a project focused on developing the first set of technical guidelines and tools specifically tailored to support climate resilience and adaptation in government buildings across Western Australia. Informed by in-depth research on international best practices and local case studies, the guidelines offer practical advice and application tools to help project teams design and deliver buildings that can withstand extreme climate hazards and remain resilient to the impacts of climate change throughout their operational life.
 
@@ -8,7 +8,7 @@ TG50 is a project focused on developing the first set of technical guidelines an
 
  - [Draft for comments](https://buildingadapt.github.io/TG50/Draft%202%20TG050_040625.pdf) 
  - [Climate Resilience Assessment Tool](https://buildingadapt.github.io/TG50/screeningv1.xlsx)
- - [Climate Adaptation Scoring Tool](https://www.wa.gov.au/organisation/department-of-finance)
+ - [Climate Adaptation Scoring Tool]
 
  
 
@@ -23,13 +23,19 @@ TG50 is a project focused on developing the first set of technical guidelines an
 
 
 ## Climate Resilience Rating
-![image](https://github.com/user-attachments/assets/214923cd-f56a-4b52-bfd8-460edaa90835)
+
+
+![image](https://github.com/user-attachments/assets/1e4151d2-483a-4a6e-ba35-d2c2a7983de9)
+
+
+
+
 
 
 
 ## Authors
 
-- [@Fred G]()
+- [@Fred G](gbuilding.github.io/)
 - [@Mushk B]()
 - [@Jack S]()
 - [@Rashid M]()
