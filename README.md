@@ -20,7 +20,7 @@ TG50 is a project focused on developing the first set of technical guidelines an
 
 ![image](https://github.com/user-attachments/assets/3cb8a1c3-26d7-425f-b1e6-d23647ac78ad)
 
-
+[Heatwave 2070 Map](https://qgiscloud.com/chping/WA_Climate_Adaptation_Building_V6cloud/)
 
 ## Climate Resilience Rating
 
