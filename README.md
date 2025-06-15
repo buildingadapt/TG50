@@ -24,6 +24,8 @@ TG50 is a project focused on developing the first set of technical guidelines an
 
 [Temperature Extreme 2070 Map](https://qgiscloud.com/chping/WA_Climate_Adaptation_Building_V6cloud/)
 
+[Count of Hot Days Map](https://qgiscloud.com/makohz/WA_Climate_Adaptation_Building_V3cloud/)
+
 ## Climate Resilience Rating
 
 
