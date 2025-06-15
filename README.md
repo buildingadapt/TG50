@@ -1,7 +1,7 @@
 
-# Technical Guideline 50 
+# Technical Guideline 050 
 
-TG50 is a project focused on developing the first set of technical guidelines and tools specifically tailored to support climate resilience and adaptation in government buildings across Western Australia. Informed by in-depth research on international best practices and local case studies, the guidelines offer practical advice and application tools to help project teams design and deliver buildings that can withstand extreme climate hazards and remain resilient to the impacts of climate change throughout their operational life.
+TG050 is a project focused on developing the first set of technical guidelines and tools specifically tailored to support climate resilience and adaptation in government buildings across Western Australia. Informed by in-depth research on international best practices and local case studies, the guidelines offer practical advice and application tools to help project teams design and deliver buildings that can withstand extreme climate hazards and remain resilient to the impacts of climate change throughout their operational life.
 
 
 ## Guidelines and Tools
@@ -15,16 +15,16 @@ TG50 is a project focused on developing the first set of technical guidelines an
 
 
 
-## Climate Adaptation Map
-[Interactive Map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=dd6fd96b38b544a48c70086bef8c838c)
-
-![image](https://github.com/user-attachments/assets/3cb8a1c3-26d7-425f-b1e6-d23647ac78ad)
+## Climate Adaptation Maps
+[Holistic Adaptation Map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=dd6fd96b38b544a48c70086bef8c838c)
 
 [Temperature Change 2050 Map](https://qgiscloud.com/chpgao/WA_Climate_Adaptation_Building_V7cloud/)
 
 [Temperature Extreme 2070 Map](https://qgiscloud.com/chping/WA_Climate_Adaptation_Building_V6cloud/)
 
-[Count of Hot Days Map](https://qgiscloud.com/makohz/WA_Climate_Adaptation_Building_V3cloud/)
+[Count of Hot Days 2030/2050 Map](https://qgiscloud.com/makohz/WA_Climate_Adaptation_Building_V3cloud/)
+
+![image](https://github.com/user-attachments/assets/3cb8a1c3-26d7-425f-b1e6-d23647ac78ad)
 
 ## Climate Resilience Rating
 
