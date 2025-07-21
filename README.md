@@ -35,18 +35,12 @@ Technical Guideline 50 (TG050) represents a pioneering initiative to establish a
 
 
 
-## Authors
-
-- [@Fred G](https://gbuilding.github.io/fred)
-- [@Mushk B]()
-- [@Jack S]()
-- [@Rashid M]()
 
   
 
-## Support
+## Contact
 
-Please email BCBuildingResearch@dohw.wa.gov.au for support or if you have any feedback.
+Please contact [@Fred G](https://gbuilding.github.io/fred) at Fred.Gao@dohw.wa.gov.au or BCBuildingResearch@dohw.wa.gov.au for support or if you have any feedback.
 
 
 ## Acknowledgements
