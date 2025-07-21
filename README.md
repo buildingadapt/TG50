@@ -1,7 +1,7 @@
 
 # Technical Guideline 050 
 
-TG050 is a project focused on developing the first set of technical guidelines and tools specifically tailored to support climate resilience and adaptation in government buildings across Western Australia. Informed by in-depth research on international best practices and local case studies, the guidelines offer practical advice and application tools to help project teams design and deliver buildings that can withstand extreme climate hazards and remain resilient to the impacts of climate change throughout their operational life.
+Technical Guideline 50 (TG050) represents a pioneering initiative to establish a dedicated set of technical guidelines and tools that support climate resilience and adaptation in government buildings across Western Australia. Grounded in extensive research into international best practices and informed by local case studies, TG050 provides actionable guidance and practical tools for project teams. Its purpose is to enable the design, delivery, and long-term operation of buildings that are capable of withstanding extreme climate hazards and maintaining resilience throughout their lifecycle.
 
 
 ## Guidelines and Tools
@@ -46,12 +46,12 @@ TG050 is a project focused on developing the first set of technical guidelines a
 
 ## Support
 
-Please email BCBuildingResearch@finance.wa.gov.au for support or if you have any feedback.
+Please email BCBuildingResearch@dohw.wa.gov.au for support or if you have any feedback.
 
 
 ## Acknowledgements
 
- - [Depart of Finance WA](https://www.wa.gov.au/organisation/department-of-finance)
+ - [Depart of Housing and Works WA](https://www.wa.gov.au/organisation/department-of-finance)
  - [Cyclone Testing Station @JCU](https://www.jcu.edu.au/cyclone-testing-station)
  - [Australia Building Codes Board](https://www.abcb.gov.au/)
 
