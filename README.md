@@ -6,7 +6,7 @@ Technical Guideline 50 (TG050) represents a pioneering initiative to establish a
 
 ## Guidelines and Tools
 
- - [Draft for Comments](https://buildingadapt.github.io/TG50/Draft%202%20TG050_18072025.pdf) 
+ - [Draft for Comments](https://buildingadapt.github.io/TG50/Draft%202%20TG050_18082025.pdf) 
  - [Climate Resilience Assessment Tool](https://buildingadapt.github.io/TG50/Climate_Resilience_Assessment.xlsx)
  - [Climate Resilience Rating Tool](https://buildingadapt.github.io/TG50/Climate_Resilience_Ratings.xlsx)
 
